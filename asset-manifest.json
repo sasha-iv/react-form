@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sasha-iv/react-form/static/css/main.cf1d71fc.css",
-    "main.js": "/sasha-iv/react-form/static/js/main.ca02320a.js",
-    "index.html": "/sasha-iv/react-form/index.html",
-    "main.cf1d71fc.css.map": "/sasha-iv/react-form/static/css/main.cf1d71fc.css.map",
-    "main.ca02320a.js.map": "/sasha-iv/react-form/static/js/main.ca02320a.js.map"
+    "main.css": "/react-form/static/css/main.cf1d71fc.css",
+    "main.js": "/react-form/static/js/main.ca02320a.js",
+    "index.html": "/react-form/index.html",
+    "main.cf1d71fc.css.map": "/react-form/static/css/main.cf1d71fc.css.map",
+    "main.ca02320a.js.map": "/react-form/static/js/main.ca02320a.js.map"
   },
   "entrypoints": [
     "static/css/main.cf1d71fc.css",
