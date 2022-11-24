@@ -3,7 +3,7 @@ import Form from "./Components/Form/Form";
 
 function App() {
   return (
-    <main className="App">
+    <main className="app">
       <Form/>
     </main>
   );
